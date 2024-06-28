@@ -122,4 +122,4 @@ if __name__ == "__main__":
     simulation.simulate()
 
     plt.ioff()  # Turn off interactive mode
-    plt.show()  # Display the final plot
+    plt.show()  # Display the final plott
